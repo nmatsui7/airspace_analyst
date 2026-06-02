@@ -1,0 +1,9 @@
+{
+  "name": "airspace-analyst",
+  "version": "1.0.0",
+  "description": "Two-agent airspace situation report generator using OpenSky Network ADS-B data",
+  "private": true,
+  "dependencies": {
+    "docx": "^9.5.0"
+  }
+}

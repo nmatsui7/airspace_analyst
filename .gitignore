@@ -1,0 +1,26 @@
+# User-specific optional files
+gemma4_official.jinja
+run_gemma.sh
+
+# Generated reports
+reports/
+
+# Environment
+.env
+.venv/
+
+# Dependencies
+node_modules/
+
+# Runtime data
+airspace.db
+logs/
+snapshots/
+data/aircraftDatabase.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
