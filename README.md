@@ -242,3 +242,11 @@ airspace_analyst/
 **No aircraft returned**
 → Rare but possible if OpenSky coverage is temporarily down.
    Try `python orchestrator.py fetch` again after a minute.
+
+## Sample Output
+
+![Aircraft position map](sample_reports/pic1.png)
+
+![Anomaly detection and statistics table](sample_reports/pic2.png)
+
+![Trend analysis and country breakdown](sample_reports/pic3.png)
